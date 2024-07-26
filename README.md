@@ -23,7 +23,7 @@
 
 I am a CS student based in Germany, mainly interested in frontend development and getting into full-stack development.
 
-- 🔭 I’m currently working on a specialized platform to centralize educational content for computer science, offering detailed notes and exercises on key topics such as database systems and software engineering, designed to enhance learning for students and educators.
+- 🔭 I’m currently working on various personal projects.
 - 🌱 I’m currently learning more about Next.js and advanced full-stack development techniques.
 - 💬 Ask me about anything related to JavaScript, TypeScript, React, Next.js, TailwindCSS, or Java.
 - 🤝 I'm open to collaborating on open source projects and educational tools, ready to bring innovative digital ideas to life.
