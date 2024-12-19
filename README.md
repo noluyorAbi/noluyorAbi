@@ -23,7 +23,8 @@
 
 I am a CS student based in Germany, mainly interested in frontend development and getting into full-stack development.
 
-- 🔭 I’m currently working on various personal projects.
+- 🔭 I’m currently developing personal projects aimed at empowering people to boost their productivity, motivation, and discipline.
+- ⚛️ I’m also working on a website with @leart-zuka to help educate people about Quantum Technologies.
 - 🌱 I’m currently learning more about Next.js and advanced full-stack development techniques.
 - 💬 Ask me about anything related to JavaScript, TypeScript, React, Next.js, TailwindCSS, or Java.
 - 🤝 I'm open to collaborating on open source projects and educational tools, ready to bring innovative digital ideas to life.
