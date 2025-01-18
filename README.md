@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
   <!-- Replace with your actual social media URLs -->
-  <a href="https://www.linkedin.com/">
+  <a href="https://in.adatepe.dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
