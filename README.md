@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
   <!-- Replace with your actual social media URLs -->
-  <a href="https://in.adatepe.dev/">
+<a href="https://in.adatepe.dev/" target="_blank" rel="noopener noreferrer" aria-label="Besuche in.adatepe.dev">in.adatepe.dev</a>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
