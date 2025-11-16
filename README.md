@@ -62,7 +62,6 @@ I am a CS student based in Germany, mainly interested in frontend development an
 
 <br/>
 
-<details>
   <summary><strong>:fire: My Public Stats</strong></summary>
   <br>
   <p>I'm on a journey of continuous learning and improvement. Below are my current GitHub stats, reflecting my commitment to becoming a better developer every day. I welcome collaboration and contributions to help enhance these numbers!</p>
@@ -77,7 +76,6 @@ I am a CS student based in Germany, mainly interested in frontend development an
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noluyorAbi&theme=transparent" />
     </a>
   </p>
-</details>
 
 
 
