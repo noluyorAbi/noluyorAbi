@@ -58,7 +58,9 @@ I am a CS student based in Germany, mainly interested in frontend development an
 
 ###  Operating Systems
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=macOS)](https://github.com/noluyorAbi)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://github.com/noluyorAbi)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/noluyorAbi)
+
 
 <br/>
 
