@@ -1,0 +1,14 @@
+# Local working / private files — never push to the public profile repo
+preview.html
+PROJECT-RANKING.md
+HANDOFF.md
+ruvector.db
+*.rvf
+*.rvf.lock
+.playwright-mcp/
+.remember/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
